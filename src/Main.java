@@ -19,7 +19,7 @@ public class Main {
         String eCarName = new String();
         double eMonthlyPayment;
         double electricityPerMile;
-
+        //this is a comment  so my project changes and i can push to git hub
 
 
         //create new scanner object
