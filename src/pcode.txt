@@ -1,0 +1,17 @@
+notes for ide 1 project
+
+1. get out comments in the top of the file
+2. need scanner to get user input
+3. ask question and assign varible
+
+be sure to plaxe your name, corse and an overveiw about the program
+
+create a method that calculates weekly gas consumption costs
+
+milesDriven/Costpergallon
+
+Weekly gallons used
+weeklyMiles/AvgMilesRating
+
+weeklyGasCost
+weeklyGallonsused*Gascostpergallon
