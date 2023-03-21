@@ -127,7 +127,7 @@ public class Main {
     }
 
 
-
+    //Adding this comment so my prject changes for gitbash
 
     //method to calculate weekly gas consumption costs
     public static double calculateWeeklyGasConsumptionCost(double weeklyMiles, double avgMilesRating, double gasGallonCost){
