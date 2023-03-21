@@ -149,5 +149,5 @@ public class Main {
 
 
     }//ends our calculatedWeeklyElectricConsumptionCost
-
+//Sorry for being late on this assignment for some reason i got confused!!
 }
